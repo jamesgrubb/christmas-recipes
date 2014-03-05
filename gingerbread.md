@@ -1,10 +1,12 @@
 ---
 layout: recipe
 title: Gingerbread
-recipe-attribution: HungryJenny
-recipe-attribution-link: http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies
+"recipe-attribution": HungryJenny
+"recipe-attribution-link": "http://www.opensourcefood.com/people/HungryJenny/recipes/soft-christmas-gingerbread-cookies"
+published: true
 ---
-Makes about 15 small cookies.
+
+Makes about 20 small cookies.
 
 ## Ingredients
 
